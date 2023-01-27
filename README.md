@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="start">
-Nesse desafio foi recriado uma aplicação, a partir de um layout, para treinar tudo o que foi aprendido no stage 02 da trilha explorer da Rocketseat. </p>
+Nesse desafio foi recriado uma aplicação, a partir de um layout, para treinar tudo o que foi ensinado no stage 02 da trilha explorer da Rocketseat. </p>
 
 ## 🔖 Layout
 
