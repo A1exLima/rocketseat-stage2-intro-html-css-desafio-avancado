@@ -25,6 +25,10 @@ nav {
     width: 1092px;
 }
 
+nav a{
+    padding: 0;
+}
+
 nav ul{
     display: flex;
     justify-content: center;
